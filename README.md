@@ -10,13 +10,16 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Projetos__Lista_de_Exercicios_N4_2026#-descri%C3%A7%C3%A3o-da-lista)
-- [🎯 Objetivos do Treinamento](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Projetos__Lista_de_Exercicios_N4_2026#-objetivos-do-treinamento)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Projetos__Lista_de_Exercicios_N4_2026#-tecnologias-utilizadas)
-- [🧩 Exercícios](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Projetos__Lista_de_Exercicios_N4_2026#-exerc%C3%ADcios)
-- [📂 Estrutura da Lista](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Projetos__Lista_de_Exercicios_N4_2026#-estrutura-da-lista)
-- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Projetos__Lista_de_Exercicios_N4_2026#autor)
-- [👨🏻‍💻 Contatos & Referências](https://github.com/Victor-M-S-Rodrigues07/Python__Treinamento_de_Projetos__Lista_de_Exercicios_N4_2026#%E2%80%8D-contatos--refer%C3%AAncias)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#-descri%C3%A7%C3%A3o-do-projeto)
+- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#-objetivos-do-curso)
+- [↩ Versão Anterior do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#-vers%C3%A3o-anterior-do-projeto)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#-tecnologias-utilizadas)
+- [⚙ Funcionalidades do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#-funcionalidades-do-projeto)
+- [📥 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#-acesso-ao-projeto)
+- [▶️ Abrir e Rodar o Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#%EF%B8%8F-abrir-e-rodar-o-projeto)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#-estrutura-do-projeto)
+- [✨Autor](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#autor)
+- [👨🏻‍💻 Contatos & Referências](https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026#%E2%80%8D-contatos--refer%C3%AAncias)
 
 ## 📝 Descrição do Projeto
 
@@ -24,15 +27,14 @@ No mundo da programação existem vários caminhos para atingir um objetivo. Na 
 
 No paradigma Estruturado, o código é escrito em blocos longos, sequenciais, divididos por funções e estruturas de dados definidas pelo desenvolvedor, como o *struct*, da linguagem C. Já no paradigma Orientado a Objetos, ou Programação Orientada a Objetos (POO), a separação é realizada por classes, cada uma com seus atributos e métodos e é esse paradigma que foi usado para criar este projeto.
 
-A Sabor Express - POO é a reconstituição da plataforma de cadastro de restaurantes do projeto anteiror. Nessa versão, os restaurantes e as avaliações foram modeladas em classes, na qual os métodos anteriormente concentrados em um único arquivo *app.py* foram distribuídos, aproveitando os recursos oferecidos pela Programação Orientada a Objetos. Desde **métodos da classe** até a criação de **propriedades (@property)**, o projeto retrata uma aplicação baseada em um cenário real, além de demonstrar conceitos fundamentais da Programação Orientada a Objetos, como composição entre classes, os métodos especiais e a reutilização de código.
+A **Sabor Express - POO** é a reconstituição da plataforma de cadastro de restaurantes do projeto anteiror. Nessa versão, os restaurantes e as avaliações foram modeladas em classes, na qual os métodos anteriormente concentrados em um único arquivo *app.py* foram distribuídos, aproveitando os recursos oferecidos pela Programação Orientada a Objetos. Desde **métodos da classe** até a criação de **propriedades (@property)**, o projeto retrata uma aplicação baseada em um cenário real, além de demonstrar conceitos fundamentais da Programação Orientada a Objetos, como composição entre classes, os métodos especiais e a reutilização de código.
 
 O repositório apresenta também pequenas atividades complementares do curso, usadas para treinamento extra de conceitos aprendidos no curso.
 
 Esse projeto foi criado a fim de aprofundar o aprendizado na linguagem de programação Python para o *Back-End*, apresentado no curso *Python: Aplicando a Orientação a Objetos* (o link do curso estará disponível no final do README). Nas próximas seções serão apresentados a estrutura do projeto, as funcionalidades implementadas, os conceitos de Programação Orientada a Objetos explorados durante o desenvolvimento, as tecnologias utilizadas e as instruções para executar a aplicação em seu ambiente local.
 
 > [!NOTE]
-> Como citado acima, os exercícios e a proposta do projeto foram criados pela ***Alura*** para o curso **Python: Aplicando a Orientação a Objetos** (Link disponível na seção de contatos), enquanto o desenvolvimento, a redação e organização do README são de autoria deste desenvolvedor, compartilhados para fins de composição de portfólio profissional.
-<br>
+> Como citado acima, os exercícios e a proposta do projeto foram criados pela ***Alura*** para o curso **Python: Aplicando a Orientação a Objetos**, enquanto o desenvolvimento, a redação e organização do README são de autoria deste desenvolvedor, compartilhados para fins de composição de portfólio profissional.
 
 ## 🎯 Objetivos do Curso
 
@@ -75,7 +77,9 @@ git clone https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___
 
 Ou, se preferir, faça o download do projeto clicando em **Code** > **Download ZIP** no GitHub e extraia os arquivos para uma pasta da sua preferência. Como mostra a imagem abaixo:
 
-<img src = ".\imgs\ilustracao-clone.png" alt = "Imagem ilustrando um trecho do site GitHub cotnendo o botão Code e as opções de extração do arquivo">
+<div align = "center">
+    <img src = ".\imgs\ilustracao-clone.png" alt = "Imagem ilustrando um trecho do site GitHub cotnendo o botão Code e as opções de extração do arquivo">
+</div>
 
 ## ▶️ Abrir e Rodar o Projeto
 
@@ -88,7 +92,6 @@ cd caminho/para/o/projeto
 ```
 
 4. Execute o arquivo principal da aplicação:
-
 
 ```bash
 python main.py
