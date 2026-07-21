@@ -42,7 +42,6 @@ class Restaurante:
 
             print (f"{restaurante._nome.ljust(25)} | {restaurante._categoria.ljust(25)} | {str(restaurante.media_avaliacoes).ljust(25)} | {restaurante.ativo}")   # Não se puxa o self pois estamos pegando da lista
 
-
     @property
 
     def ativo (self):
