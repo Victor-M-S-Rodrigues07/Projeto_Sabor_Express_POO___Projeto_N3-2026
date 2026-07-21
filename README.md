@@ -75,7 +75,7 @@ Para obter uma cópia do projeto em sua máquina, clone este repositório utiliz
 git clone https://github.com/Victor-M-S-Rodrigues07/Projeto_Sabor_Express_POO___Projeto_N3-2026.git
 ```
 
-Ou, se preferir, faça o download do projeto clicando em **Code** > **Download ZIP** no GitHub e extraia os arquivos para uma pasta da sua preferência. Como mostra a imagem abaixo:
+Ou, se preferir, faça o download do projeto clicando em **Code** > **Download ZIP** no GitHub e extraia os arquivos para uma pasta da preferência do senhor(a). Como mostra a imagem abaixo:
 
 <div align = "center">
     <img src = ".\imgs\ilustracao-clone.png" alt = "Imagem ilustrando um trecho do site GitHub cotnendo o botão Code e as opções de extração do arquivo">
